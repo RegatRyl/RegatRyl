@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently adventuring a world that named **Internet**
 
-- 👨‍💻 All of my projects are available at [Lol soon](Lol soon)
+- 👨‍💻 All of my projects are available at (Lol soon)
 
 - 📫 How to reach me **regadryl@gmail.con**
 
-- ⚡ Fun fact **i dont have fun fact :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regatryl&show_icons=true&theme=dracula&locale=en&layout=compact" alt="regatryl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regatryl&show_icons=true&theme=radical&locale=en" alt="regatryl" /></p>
+![Metrics](https://metrics.lecoq.io/RegatRyl?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asian%2FJakarta)
