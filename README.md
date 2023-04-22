@@ -10,7 +10,6 @@
 - 📫 How to reach me **regadryl@gmail.con**
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <br \>
